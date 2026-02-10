@@ -46,7 +46,7 @@ Admin moderation dashboard
 
 AI-assisted content categorization
 
-##Demo
+## Demo
 🌐 Live Demo: https://lucent-monstera-eb7ccf.netlify.app/
 
 ⚠️ This is a prototype demo. Data is stored locally in the browser using localStorage.
